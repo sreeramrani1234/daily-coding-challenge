@@ -1,1 +1,9 @@
+This analysis explores the relationship between children's food habits (such as fruit intake, vegetable servings, and sugary drink consumption) and their physical growth indicators, particularly Body Mass Index (BMI). Using PivotTables and slicer-based filtering, regional and demographic trends have been examined to identify areas for improvement.
+Positive Correlation Between Sugary Drink Consumption and BMI:
+Children in Region B show significantly higher average BMI values, which aligns with a higher reported intake of sugary beverages. This trend is most prominent among children classified as "At Risk" in the Health_Status category.
 
+Fruit and Vegetable Intake Linked to Lower BMI:
+Regions with higher average daily servings of fruits and vegetables, such as Region C, are associated with lower average BMI values and better overall Health_Status indicators.
+
+Gender-Based Differences:
+Female children show slightly higher average fruit intake, whereas male children have a marginally higher BMI across most regions, indicating potential behavioral or cultural influences in dietary choices.
