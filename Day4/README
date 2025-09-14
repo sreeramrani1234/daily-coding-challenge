@@ -1,1 +1,19 @@
+Credit Risk Assessment:
 
+Default rates vary significantly across borrower segments (e.g., consumer vs. commercial).
+
+Higher default rates are correlated with lower credit scores and specific industries (e.g., hospitality, retail).
+
+Portfolio is concentrated in a few sectors, increasing systemic risk.
+
+Trend Analysis:
+
+An upward trend in defaults over the past 3 years, particularly during economic downturns.
+
+Shifts in borrower demand from fixed-rate to variable-rate loans.
+
+Increase in subprime lending, with associated higher risk and volatility.
+
+Sensitivity Analysis:
+
+A two-variable data table shows expected profit declines sharply when default rate exceeds 10% and interest rate drops below 8%.
