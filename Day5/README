@@ -1,1 +1,42 @@
+Recurring Issues Identified:
 
+Most frequent keywords: password, login, wifi, printer, email, reset, access
+
+Indicates systemic problems with user access, network reliability, and hardware (especially printers).
+
+Ticket Volume Trends:
+
+Highest volume on Mondays and Tuesdays
+
+Peak hours: 9 AM to 11 AM
+
+Suggests need for increased staffing during these windows.
+
+Resolution Time Insights:
+
+Average resolution time: [insert value, e.g., 9.5 hours]
+
+Hardware and access-related issues take the longest to resolve.
+
+Some critical priority tickets take longer than expected—triage process may need improvement.
+
+Analyst Performance:
+
+Wide variation in resolution times across analysts.
+
+Some analysts resolve tickets in under 4 hours, others take over 14.
+
+Suggests a need for workload balancing and possible training or process standardization.
+Recommendations:
+
+Implement self-service tools (e.g., password resets)
+
+Improve onboarding processes to prevent access issues
+
+Upgrade or maintain network and printer infrastructure
+
+Adjust staffing levels during peak times (especially Monday AM)
+
+Provide training or support for underperforming analysts
+
+Recognize top performers and adopt their methods more widely
