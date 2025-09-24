@@ -1,1 +1,16 @@
+On-time delivery percentage
 
+Average delivery time
+
+Delayed shipment details
+
+Delivery trends over time
+
+Cost vs performance by region/city
+
+Important caluculations :
+OnTimeDelivery = IF(Actual ≤ Scheduled, 1, 0)
+
+OnTimePercentage = SUM(OnTimeDelivery) / COUNT(Shipments)
+
+DelayInDays = Actual - Scheduled
