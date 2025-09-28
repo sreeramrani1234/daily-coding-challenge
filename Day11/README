@@ -1,1 +1,9 @@
+IT Department has the highest average stress level, likely due to extended working hours and lower average sleep duration.
 
+Employees aged 30–40 show a higher percentage of high stress, possibly due to balancing mid-career demands with personal responsibilities.
+
+Females report slightly lower average sleep hours, but similar work hours, indicating a potential wellness concern.
+
+A strong negative correlation exists between Sleep Hours and Stress Level, as shown in the scatter plot — less sleep typically equals more stress.
+
+15% of employees are classified as high stress (StressLevel ≥ 4), with several individuals flagged under critical stress conditions (StressLevel = 5 and SleepHours < 5).
