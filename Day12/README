@@ -1,1 +1,56 @@
+Objective
 
+Analyze how Eat_Out_Frequency impacts health indicators:
+
+BMI
+
+Cholesterol Level
+
+Blood Pressure
+
+Lifestyle factors: Exercise, Sleep, Calories, Diabetes, Health Score
+Frequency vs. BMI
+
+Chart: Scatter Plot or Line Chart
+
+X-axis: Eat_Out_Frequency
+
+Y-axis: Average BMI
+
+Insight: Is higher frequency linked to higher BMI?
+
+✅ Frequency vs. Cholesterol Level
+
+Chart: Stacked Column Chart or 100% Stacked Bar
+
+Axis: Eat_Out_Frequency
+
+Values: Count of Cholesterol_Level
+
+Color Code: 🟥 High, 🟨 Borderline, 🟩 Normal
+
+✅ Frequency vs. Blood Pressure
+
+Chart: Clustered Column Chart
+
+Axis: Eat_Out_Frequency
+
+Legend: BloodPressure Categories (Normal, PreHypertension, Hypertension)
+
+✅ Lifestyle Analysis
+
+Sleep & Exercise vs. Eat_Out_Frequency
+
+Bar or Line Charts showing:
+
+Average Sleep_Hours
+
+Average Exercise_Hours_Per_Week
+
+✅ Health Score Trend
+
+Chart: Line Chart
+
+X-axis: Eat_Out_Frequency
+
+Y-axis: Average Health_Score
